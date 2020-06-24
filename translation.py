@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram File To Video Converter Bot!
+This is a Telegram NR All In One DL Bot!
   
 /help for more details..
 
@@ -35,9 +35,15 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan Free User
 Expires on: 31/12/2020"""
-    HELP_USER = """Hai am File to video converter bot...
+    HELP_USER = """Hai am NR All In one DL bot...
     
-1.send me a file and just reply to file as /converttovideo
+1.If you want to upload An link to file send me a url with name and password separated by | .
+2.If you want to upload. a youtube link into a file or video with custum thumbnal and custom name link | Newname.password 
+3.If you want to Convert file to video Reply /Converttovideo To the file .
+4.If you want to download the Sticker Just send me a sticker and i will upload as file .
+5.If you want to Rename any files of Telegram just reply /rename newname . password and i will rename and upload it ti Telegram
+6.If you want to generate screenshots of any file Just reply /generatescss to file and i will do my process 
+And Much more See Commands For Any other uses
    
 Join: @NRBotsZ
 
